@@ -37,13 +37,13 @@ ACCENT = "#22d3ee"
 #  The username in the header is HOST below.
 #
 #  row types:
-#    ("host",)              -> "you@github" header + rule
+#    ("host",)              -> "abhijeet@github" header + rule
 #    ("kv", key, value)     -> orange key + light value
 #    ("sec", title)         -> blue "— title —" section rule
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "you"   # shown as  you@github  in the header
+HOST = "you"   # shown as  abhijeet@github  in the header
 
 ROWS = [
     ("host",),
