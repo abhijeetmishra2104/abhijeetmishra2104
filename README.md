@@ -45,31 +45,103 @@
 
 ---
 
-## 💻 Experience & Projects
+## 💼 Experience
 
-- **Digital Prospects Consulting:** Worked as a Full Stack Web Development Intern, integrating Redis caching to accelerate API response times by 45% and leading code quality initiatives.
-- **Adhyaay, IIIT Bhagalpur:** Mentored 20+ students and led a team to build the Adhyaay website, automating 50% of administrative tasks.
-- **Provably Fair Smart Contract Lottery:** Engineered a decentralized lottery on the Sepolia testnet, ensuring 100% cryptographically secure winner selection with 99.9% uptime.
-- **SonicScribe:** Architected a production-ready medical audio analysis platform using Next.js, Tailwind, and Flask, enabling the processing of 1,000+ files.
-- **Medium Clone:** Built a feature-rich blogging platform using React, TypeScript, Cloudflare Workers, and Prisma.
+**Training & Placement Coordinator** — Indian Institute of Information Technology, Bhagalpur
+<sub>Jan 2025 – Present</sub>
+- Orchestrated placement activities for 300+ students, streamlining recruitment workflows and communication — driving a 20% increase in placement rates and a 15% improvement in salary packages.
+
+**Full-Stack Web Development Intern** — Digital Prospects Consulting
+<sub>May 2025 – Jul 2025</sub>
+- Built and optimized RESTful APIs with Node.js, Express, and MySQL, boosting query efficiency by 35% and holding 99.9% backend uptime.
+- Integrated Redis caching, cutting API response times by 45% and enabling seamless scaling under peak traffic.
+- Standardized Git branching and peer-review workflows, reducing integration issues by 15% and resolving key production crashes.
+
+**Student Mentor** — Adhyaay, IIIT Bhagalpur
+<sub>Aug 2024 – Apr 2025</sub>
+- Mentored 20+ students across academics, sports, and career development while leading a 6-member team that built the Adhyaay website — automating 50% of manual admin tasks and lifting student engagement by 30%.
+
+---
+
+## 🚀 Projects
+
+**SonicScribe — Full-Stack Audio Intelligence Platform** <sub>Jun 2025</sub>
+- Architected a production-ready medical audio analysis platform (Next.js, Tailwind, Flask) integrated with Whisper API and LangChain, processing 1,000+ audio files at 95% API reliability.
+- Built secure REST APIs for direct uploads and Cloudinary URLs, cutting backend crashes by 40% and boosting processing speed by 25%.
+- Shipped CI/CD via GitHub Actions to Heroku + Vercel and Dockerized the Flask backend, eliminating 100% of build failures.
+
+**Provably Fair Smart Contract Lottery** <sub>Jun 2026</sub>
+- Engineered a decentralized lottery in Solidity + Chainlink VRF v2.5 with cryptographically secure, autonomous winner selection.
+- Built a Foundry test suite (unit, stress, gas benchmarks) validated under 1,000+ concurrent users; cut transaction costs 18% via gas optimization.
+
+**ERC-721 NFT Implementations**
+- Deployed two NFT architectures in Solidity/Foundry — one with IPFS off-chain metadata, one fully on-chain with dynamic, Base64-encoded SVG metadata.
+- Built a dynamic Mood NFT with mutable on-chain state, letting the metadata and artwork flip between Happy and Sad via contract calls.
+- Explored EVM-level encoding (`abi.encode`, `abi.decode`, `abi.encodePacked`, function selectors, calldata, low-level calls) on Anvil and Sepolia.
+
+**Medium — Feature-Rich Blogging Platform** <sub>Sep 2024</sub>
+- Built a full-stack blogging app (React, TypeScript, Tailwind) with JWT auth, deployed frontend on Vercel + backend on Cloudflare Workers at 99.9% uptime.
+- Published a reusable npm package standardizing input validation across modules, cutting validation errors by 30%.
+
+**ERC-20 From Scratch**
+- Implemented a simplified ERC-20 token in Solidity — balances, transfers, supply tracking, decimals — to internalize the EIP-20 spec.
+- Automated build/test/deploy with a Foundry + Makefile workflow; deployed and verified on Sepolia via Etherscan.
+
+---
+
+## 🧰 Tech Arsenal
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Web3+%2F+Blockchain+Builder;ECE+%40+IIIT+Bhagalpur" alt="typing banner" />
+</p>
+
+<p align="center"><sub>Languages</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,solidity,cpp" alt="languages" />
+</p>
+
+<p align="center"><sub>Frontend</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="frontend" />
+</p>
+
+<p align="center"><sub>Backend</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="backend" />
+</p>
+
+<p align="center"><sub>Databases</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="databases" />
+</p>
+
+<p align="center"><sub>DevOps / Cloud</sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" alt="devops" />
+</p>
+
+<p align="center"><sub>Web3 / Blockchain tooling</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Chainlink_VRF_v2.5-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink VRF" />
+  <img src="https://img.shields.io/badge/Anvil-2A2A2A?style=for-the-badge" alt="Anvil" />
+  <img src="https://img.shields.io/badge/Sepolia_Testnet-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Sepolia" />
+  <img src="https://img.shields.io/badge/Gas_Optimization-F0B90B?style=for-the-badge" alt="Gas Optimization" />
+</p>
+
+<p align="center"><sub>APIs / Realtime</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
+</p>
 
 ---
 
 ## 📜 Certifications
 
-- 🏆 **ServiceNow:** Certified System Administrator (CSA) & Certified Application Developer (CAD).
-- ⛓️ **Blockchain (Cyfrin Updraft):** Foundry Fundamentals, Blockchain Basics, Solidity Smart Contract Dev.
-- 💻 **Full-Stack Development:** 100xdevs Full-Stack Developer.
-
----
-
-## 🛠️ Languages and Tools
-
-- **Programming Languages:** Solidity, JavaScript, TypeScript, C++, SQL.
-- **Web3 / Blockchain:** Smart Contract Development, Foundry, Chainlink VRF v2.5, Gas Optimization, Anvil, Sepolia Testnet.
-- **Front-End:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Responsive UI/UX.
-- **Back-End:** Node.js, Express.js, Next.js, Cloudflare Workers, REST APIs, JWT authentication, WebSockets, WebRTC, Vertical and Horizontal Scaling.
-- **Databases:** PostgreSQL, MongoDB, Prisma ORM, MySQL, Indexing, Sharding.
-- **DevOps / Deployment:** Vercel, Heroku, GitHub Actions (CI/CD), Docker, Cloudflare CDN, Git, GitHub, npm Package Development, AWS.
-
-_(Tech stack adapted directly from **sdeResume.pdf** and **blockchainResume.pdf**)_
+- 🏆 **ServiceNow** — Certified System Administrator (CSA), Certified Application Developer (CAD)
+- ⛓️ **Blockchain (Cyfrin Updraft)** — Foundry Fundamentals, Blockchain Basics, Solidity Smart Contract Dev.
+- 💻 **Full-Stack Development** — 100xdevs Full-Stack Developer
