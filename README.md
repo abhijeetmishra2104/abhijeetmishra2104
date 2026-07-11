@@ -74,7 +74,7 @@
 - Engineered a decentralized lottery in Solidity + Chainlink VRF v2.5 with cryptographically secure, autonomous winner selection.
 - Built a Foundry test suite (unit, stress, gas benchmarks) validated under 1,000+ concurrent users; cut transaction costs 18% via gas optimization.
 
-**ERC-721 NFT Implementations**
+**ERC-721 NFT Implementations** <sub>Jul 2026</sub>
 - Deployed two NFT architectures in Solidity/Foundry — one with IPFS off-chain metadata, one fully on-chain with dynamic, Base64-encoded SVG metadata.
 - Built a dynamic Mood NFT with mutable on-chain state, letting the metadata and artwork flip between Happy and Sad via contract calls.
 - Explored EVM-level encoding (`abi.encode`, `abi.decode`, `abi.encodePacked`, function selectors, calldata, low-level calls) on Anvil and Sepolia.
@@ -83,7 +83,7 @@
 - Built a full-stack blogging app (React, TypeScript, Tailwind) with JWT auth, deployed frontend on Vercel + backend on Cloudflare Workers at 99.9% uptime.
 - Published a reusable npm package standardizing input validation across modules, cutting validation errors by 30%.
 
-**ERC-20 From Scratch**
+**ERC-20 From Scratch** <sub>Jul 2026</sub>
 - Implemented a simplified ERC-20 token in Solidity — balances, transfers, supply tracking, decimals — to internalize the EIP-20 spec.
 - Automated build/test/deploy with a Foundry + Makefile workflow; deployed and verified on Sepolia via Etherscan.
 
@@ -161,6 +161,6 @@
 - ⛓️ **[Foundry Fundamentals](https://profiles.cyfrin.io/u/abhijeetmishra2104/achievements/foundry)** — Cyfrin Updraft
 - ⛓️ **[Solidity Smart Contract Development](https://profiles.cyfrin.io/u/abhijeetmishra2104/achievements/solidity)** — Cyfrin Updraft
 - ⛓️ **[Blockchain Basics](https://profiles.cyfrin.io/u/abhijeetmishra2104/achievements/blockchain-basics)** — Cyfrin Updraft
-- 💻 **Full-Stack Developer** — 100xdevs
+- 💻 **[Full-Stack Developer](https://drive.google.com/file/d/1VpmOTUYDzYc5uIiUp6V6aMtG8q1DeGJo/view)** — 100xdevs
 - 🤖 **[Introduction to Large Language Models](https://drive.google.com/file/d/1LDuytZZwxxQOKRpNKw3ZAMuQs3VM6vBn/view)**
 - 🔒 **[Introduction to Cybersecurity](https://drive.google.com/file/d/1mmb4kZmCirU6IDLLtnATX9gU-4EgESXX/view)**
