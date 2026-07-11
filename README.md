@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Abhijeet Mishra</h1>[cite: 1, 2]
-<h3 align="center">A passionate Full-Stack & Web3 Developer</h3>[cite: 1, 2]
+<h1 align="center">Hi 👋, I'm Abhijeet Mishra</h1>
+<h3 align="center">A passionate Full-Stack & Web3 Developer</h3>
 
 <p align="center">
   <a href="https://portfolio-gamma-coral-23.vercel.app/">Portfolio</a> ·
@@ -37,29 +37,29 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Electronics and Communication Engineering at IIIT Bhagalpur with a CGPA of 8.93/10.00.[cite: 1, 2]
-- 💼 Currently acting as Training and Placement Coordinator for Batch '27.[cite: 1, 2]
-- 🌐 Experienced in Full-Stack Web Development, optimizing RESTful APIs, and achieving 99.9% backend uptime.[cite: 1, 2]
-- 🔗 Passionate about Web3, building provably fair smart contracts with Solidity and Chainlink VRF v2.5.[cite: 2]
-- 📧 Reach me at: **abhijeetmishra2104@gmail.com**[cite: 1, 2]
+- 🎓 Pursuing B.Tech in Electronics and Communication Engineering at IIIT Bhagalpur with a CGPA of 8.93/10.00.
+- 💼 Currently acting as Training and Placement Coordinator for Batch '27.
+- 🌐 Experienced in Full-Stack Web Development, optimizing RESTful APIs, and achieving 99.9% backend uptime.
+- 🔗 Passionate about Web3, building provably fair smart contracts with Solidity and Chainlink VRF v2.5.
+- 📧 Reach me at: **abhijeetmishra2104@gmail.com**
 
 ---
 
 ## 💻 Experience & Projects
 
-- **Digital Prospects Consulting:** Worked as a Full Stack Web Development Intern, integrating Redis caching to accelerate API response times by 45% and leading code quality initiatives.[cite: 1, 2]
-- **Adhyaay, IIIT Bhagalpur:** Mentored 20+ students and led a team to build the Adhyaay website, automating 50% of administrative tasks.[cite: 1, 2]
-- **Provably Fair Smart Contract Lottery:** Engineered a decentralized lottery on the Sepolia testnet, ensuring 100% cryptographically secure winner selection with 99.9% uptime.[cite: 2]
-- **SonicScribe:** Architected a production-ready medical audio analysis platform using Next.js, Tailwind, and Flask, enabling the processing of 1,000+ files.[cite: 1, 2]
-- **Medium Clone:** Built a feature-rich blogging platform using React, TypeScript, Cloudflare Workers, and Prisma.[cite: 1]
+- **Digital Prospects Consulting:** Worked as a Full Stack Web Development Intern, integrating Redis caching to accelerate API response times by 45% and leading code quality initiatives.
+- **Adhyaay, IIIT Bhagalpur:** Mentored 20+ students and led a team to build the Adhyaay website, automating 50% of administrative tasks.
+- **Provably Fair Smart Contract Lottery:** Engineered a decentralized lottery on the Sepolia testnet, ensuring 100% cryptographically secure winner selection with 99.9% uptime.
+- **SonicScribe:** Architected a production-ready medical audio analysis platform using Next.js, Tailwind, and Flask, enabling the processing of 1,000+ files.
+- **Medium Clone:** Built a feature-rich blogging platform using React, TypeScript, Cloudflare Workers, and Prisma.
 
 ---
 
 ## 📜 Certifications
 
-- 🏆 **ServiceNow:** Certified System Administrator (CSA) & Certified Application Developer (CAD).[cite: 1, 2]
-- ⛓️ **Blockchain (Cyfrin Updraft):** Foundry Fundamentals, Blockchain Basics, Solidity Smart Contract Dev.[cite: 2]
-- 💻 **Full-Stack Development:** 100xdevs Full-Stack Developer.[cite: 1, 2]
+- 🏆 **ServiceNow:** Certified System Administrator (CSA) & Certified Application Developer (CAD).
+- ⛓️ **Blockchain (Cyfrin Updraft):** Foundry Fundamentals, Blockchain Basics, Solidity Smart Contract Dev.
+- 💻 **Full-Stack Development:** 100xdevs Full-Stack Developer.
 
 ---
 
@@ -115,7 +115,7 @@
   </a>
 </p>
 
-_(Tech stack adapted directly from **sdeResume.pdf** and **blockchainResume.pdf**[cite: 1, 2])_
+_(Tech stack adapted directly from **sdeResume.pdf** and **blockchainResume.pdf**)_
 
 ---
 
