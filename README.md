@@ -117,34 +117,6 @@
 
 _(Tech stack adapted directly from **sdeResume.pdf** and **blockchainResume.pdf**)_
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeetmishra2104&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijeetmishra2104&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhijeetmishra2104&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤗 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhijeet-mishra-abhi2104/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abhijeetmishra2104@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Email" />
-  </a>
-</p>
-
----
-
 <!-- Snake Contribution Graph -->
 <div align="center">
   <img src="https://github.com/abhijeetmishra2104/abhijeetmishra2104/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
