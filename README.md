@@ -107,17 +107,29 @@
 
 <p align="center"><sub>Backend</sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="backend" />
 </p>
 
 <p align="center"><sub>Databases</sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" alt="databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,redis" alt="databases" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
 </p>
 
 <p align="center"><sub>DevOps / Cloud</sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel" alt="devops" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vercel" alt="devops" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</p>
+
+<p align="center"><sub>Messaging & Observability</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
 </p>
 
 <p align="center"><sub>Web3 / Blockchain tooling</sub></p>
@@ -132,6 +144,8 @@
 <p align="center"><sub>APIs / Realtime</sub></p>
 <p align="center">
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
@@ -142,6 +156,11 @@
 
 ## 📜 Certifications
 
-- 🏆 **ServiceNow** — Certified System Administrator (CSA), Certified Application Developer (CAD)
-- ⛓️ **Blockchain (Cyfrin Updraft)** — Foundry Fundamentals, Blockchain Basics, Solidity Smart Contract Dev.
-- 💻 **Full-Stack Development** — 100xdevs Full-Stack Developer
+- 🏆 **[ServiceNow Certified System Administrator (CSA)](https://www.credly.com/badges/55e500b4-1c0f-4655-9417-e4cf9c886c44/linked_in_profile)** — ServiceNow
+- 🏆 **[Certified Application Developer (CAD)](https://www.credly.com/badges/f188e150-137c-4442-8c2f-9c0fa832ac00/linked_in_profile)** — ServiceNow
+- ⛓️ **[Foundry Fundamentals](https://profiles.cyfrin.io/u/abhijeetmishra2104/achievements/foundry)** — Cyfrin Updraft
+- ⛓️ **[Solidity Smart Contract Development](https://profiles.cyfrin.io/u/abhijeetmishra2104/achievements/solidity)** — Cyfrin Updraft
+- ⛓️ **[Blockchain Basics](https://profiles.cyfrin.io/u/abhijeetmishra2104/achievements/blockchain-basics)** — Cyfrin Updraft
+- 💻 **Full-Stack Developer** — 100xdevs
+- 🤖 **[Introduction to Large Language Models](https://drive.google.com/file/d/1LDuytZZwxxQOKRpNKw3ZAMuQs3VM6vBn/view)**
+- 🔒 **[Introduction to Cybersecurity](https://drive.google.com/file/d/1mmb4kZmCirU6IDLLtnATX9gU-4EgESXX/view)**
