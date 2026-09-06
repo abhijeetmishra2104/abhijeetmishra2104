@@ -1,17 +1,17 @@
 {
   "username": "abhijeetmishra2104",
-  "generated_at": "2026-09-05T07:39:25Z",
+  "generated_at": "2026-09-06T07:53:27Z",
   "range": {
-    "start": "2025-08-31",
-    "end": "2026-09-05"
+    "start": "2025-09-07",
+    "end": "2026-09-06"
   },
-  "total_contributions": 253,
-  "active_days": 34,
-  "avg_per_active_day": 7.4,
+  "total_contributions": 180,
+  "active_days": 36,
+  "avg_per_active_day": 5.0,
   "current_streak": {
-    "length": 2,
+    "length": 4,
     "start": "2026-09-03",
-    "end": "2026-09-04"
+    "end": "2026-09-06"
   },
   "longest_streak": {
     "length": 9,
@@ -19,14 +19,10 @@
     "end": "2026-09-01"
   },
   "best_day": {
-    "date": "2026-08-29",
-    "count": 35
+    "date": "2026-08-27",
+    "count": 25
   },
   "monthly": [
-    {
-      "month": "2025-08",
-      "total": 0
-    },
     {
       "month": "2025-09",
       "total": 2
@@ -73,42 +69,14 @@
     },
     {
       "month": "2026-08",
-      "total": 188
+      "total": 127
     },
     {
       "month": "2026-09",
-      "total": 39
+      "total": 27
     }
   ],
   "days": [
-    {
-      "date": "2025-08-31",
-      "count": 0
-    },
-    {
-      "date": "2025-09-01",
-      "count": 0
-    },
-    {
-      "date": "2025-09-02",
-      "count": 0
-    },
-    {
-      "date": "2025-09-03",
-      "count": 0
-    },
-    {
-      "date": "2025-09-04",
-      "count": 0
-    },
-    {
-      "date": "2025-09-05",
-      "count": 0
-    },
-    {
-      "date": "2025-09-06",
-      "count": 0
-    },
     {
       "date": "2025-09-07",
       "count": 0
@@ -1507,7 +1475,7 @@
     },
     {
       "date": "2026-08-22",
-      "count": 22
+      "count": 11
     },
     {
       "date": "2026-08-23",
@@ -1515,7 +1483,7 @@
     },
     {
       "date": "2026-08-24",
-      "count": 4
+      "count": 2
     },
     {
       "date": "2026-08-25",
@@ -1523,7 +1491,7 @@
     },
     {
       "date": "2026-08-26",
-      "count": 22
+      "count": 12
     },
     {
       "date": "2026-08-27",
@@ -1535,15 +1503,15 @@
     },
     {
       "date": "2026-08-29",
-      "count": 35
+      "count": 19
     },
     {
       "date": "2026-08-30",
-      "count": 34
+      "count": 16
     },
     {
       "date": "2026-08-31",
-      "count": 11
+      "count": 7
     },
     {
       "date": "2026-09-01",
@@ -1555,15 +1523,19 @@
     },
     {
       "date": "2026-09-03",
-      "count": 6
+      "count": 2
     },
     {
       "date": "2026-09-04",
-      "count": 22
+      "count": 11
     },
     {
       "date": "2026-09-05",
-      "count": 0
+      "count": 2
+    },
+    {
+      "date": "2026-09-06",
+      "count": 1
     }
   ]
 }
